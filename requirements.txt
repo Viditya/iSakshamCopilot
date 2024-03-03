@@ -1,0 +1,10 @@
+streamlit
+langchain
+pyodbc
+pymssql
+python-dotenv
+langchain-openai
+torch
+transformers
+langchain-community
+ctransformers
